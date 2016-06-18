@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
-vũ hoàng giang
-
 alo alo alo
 học php
 học javascript
 
-=======
-vũ hoàng giang
->>>>>>> 25f2d71... update
+
+
